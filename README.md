@@ -10,7 +10,7 @@ Doggo adoption app built using Jetpack Compose.
 
 
 ## :bulb: Motivation and Context
-The moment Jetpack Compose hit beta I was thrilled to begin playing around with it.
+The moment Jetpack Compose hit beta I was so excited to start playing around with it.
 The dev challenges is an awesome way of getting familiar with this toolkit.
 I can't wait to continue building awesome stuff using Compose.
 
